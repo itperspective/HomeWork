@@ -1,0 +1,6 @@
+C:\Users\bogdank\Documents\Visual Studio 2012\Projects\NICE_Training\Lesson1\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\bogdank\Documents\Visual Studio 2012\Projects\NICE_Training\Lesson1\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\bogdank\Documents\Visual Studio 2012\Projects\NICE_Training\Lesson1\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\bogdank\Documents\Visual Studio 2012\Projects\NICE_Training\Lesson1\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\bogdank\Documents\Visual Studio 2012\Projects\NICE_Training\Lesson1\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\bogdank\Documents\Visual Studio 2012\Projects\NICE_Training\Lesson1\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
